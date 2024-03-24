@@ -1,0 +1,118 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/240/340/desktop-wallpaper-akatsuki-akatsuki-anime-naruto-art-wizyakuza.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+
+
+.welcome {
+    text-align: center;
+    font-style: bold;
+    color:black;
+    
+}
+
+.back{
+    background-color: aliceblue;
+    border:solid;
+    padding: 5px;
+    border-radius:2px;
+}
+
+
+.site{
+    text-align:left;
+    color: red;
+    font-style: bold;
+    display:inline-flex;
+    background-color:aliceblue;
+    border: dashed black;
+    padding:1px;
+
+
+}
+
+.welcome:hover {
+    color:purple;
+    cursor:pointer;
+    
+}
+
+ .storedetails button{
+    display:block;
+    
+    margin:30px 20px;
+
+    background-color:white;
+    
+    border:solid black;
+
+    padding:3px;
+
+    color:purple;
+
+    
+}
+
+
+
+.storedetails {
+    color:black;
+    size:100px;
+    font-style: bold;
+    margin: 20px 50px;
+    
+    
+
+    
+
+
+}
+
+.magic {
+    display:none;
+}
+
+.storedetails .ff {
+    background-color:white;
+    border: solid black ;
+    padding:5px;
+
+}
+
+.storedetails:hover  .magic  {
+    display:block;
+    
+
+
+}
+
+.storedetails button:hover{
+    display:block;
+    
+    margin:30px 20px;
+
+    background-color:blue;
+    
+    border:solid black;
+
+    padding:3px;
+
+    color: orange;
+
+    
+}
+.footer{
+    text-align: center;
+    color:aliceblue;
+    font-size:xx-large;
+    background-color:black;
+    border:solid black;
+    font-style:bold;
+    margin:90% auto 0% auto;
+
+
+}
