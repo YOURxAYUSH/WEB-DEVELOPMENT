@@ -1,4 +1,8 @@
-
+html {
+   -moz-text-size-adjust: 100%;
+   -webkit-text-size-adjust: 100%;
+   text-size-adjust: 100%;
+}
 
 body{
     background-image: url("https://e0.pxfuel.com/wallpapers/240/340/desktop-wallpaper-akatsuki-akatsuki-anime-naruto-art-wizyakuza.jpg");
